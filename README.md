@@ -1,4 +1,4 @@
-# Vermonte API Bot
+# WishingMagic Bot
 
 General purpose discord bot, mostly used for connecting to APIs around the internet such as Minecraft, Classicube and many others.
 
